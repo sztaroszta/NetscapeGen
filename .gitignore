@@ -13,8 +13,6 @@ debug.log
 app.log
 
 # Output files from script
-*.xlsx
-*.csv
 output/
 
 # IDE / Editor specific
